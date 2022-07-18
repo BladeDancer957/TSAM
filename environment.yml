@@ -1,0 +1,10 @@
+name: CEE
+channels:
+  - defaults
+dependencies:
+  - python=3.6
+  - pytorch=1.6
+  - scipy
+  - scikit-learn
+  - pip:
+    - transformers==2.2.0
