@@ -1,3 +1,5 @@
+#TSAM
+
 The code for paper: 《TSAM: A Two-Stream Attention Model for Causal Emotion Entailment》
 
 
