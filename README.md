@@ -1,3 +1,5 @@
+# TSAM
+
 The code for paper: 《TSAM: A Two-Stream Attention Model for Causal Emotion Entailment》
 
 
@@ -20,9 +22,9 @@ The code has been tested on Ubuntu 16.04 using a single GPU. For multi-GPU train
 
 ## Run Steps
 
-1. Download and unzip the `data.zip`
-2. Download and unzip the `code.zip`. 
-3. Download necessary pre-trained model files, which will be released upon accept.
+1. `data/` including [original annotation dataset](https://github.com/soujanyaporia/RECCON) and our preprocessed dataset.
+2. `code/` including our codes. 
+3. Download necessary pre-trained model files (RoBERTa base and large).
 4. Configure hyper-parameters in `code/config.py`
 5. Run our model:
 
